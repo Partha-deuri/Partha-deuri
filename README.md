@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Parthapratim Deuri 
-- 👀 I’m interested in programing
 - 🌱 I’m currently learning computer science engineering
 - 💞️ I’m looking to collaborate on anything from which I can learn
 - 📫 How to reach me
