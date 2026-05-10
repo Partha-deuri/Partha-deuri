@@ -26,8 +26,9 @@ I am a Data Science enthusiast and an M.Tech student at **IIT Guwahati**. My wor
 
 ## 📫 Let's Connect!
 - 📧 **Email:** [parthadeuri4@iitg.ac.in](mailto:parthadeuri4@iitg.ac.in)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/parthapratim-deuri/)
-- 💻 **GitHub:** [Your GitHub Profile](https://github.com/parthapratim-deuri)
+- 💼 **LinkedIn:** [Parthapratim Deuri](https://www.linkedin.com/in/parthapratim-deuri/)
+- 💻 **GitHub:** [Partha-deuri](https://github.com/parthapratim-deuri)
+-  **Website** [pdeuri.online](https://pdeuri.online)
 
 ---
 *“Turning data into insights and ideas into code.”*
